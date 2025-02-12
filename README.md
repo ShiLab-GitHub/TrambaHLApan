@@ -39,7 +39,7 @@ weblogo==3.7.12
 
 ## 2.  How to train and use TrambaHLApan
 
-#### 1) Download all data from the Mendeley Data repository (https://data.mendeley.com/datasets/kctz3mrwgz/1) and place the data in the `./data/datasets/` folder.
+#### 1) Download all data from the Mendeley Data repository (https://data.mendeley.com/datasets/kctz3mrwgz/2) and place the data in the `./data/datasets/` folder.
 
 #### 2) Training the TrambaHLApan-EL model
 
