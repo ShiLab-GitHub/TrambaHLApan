@@ -1,3 +1,6 @@
+This paper has been published as "TrambaHLApan: A Transformer and Mamba-based Neoantigen Prediction Method Considering both Antigen Presentation and Immunogenicity." (DOI: 10.1007/s12539-025-00777-5). 
+https://link.springer.com/article/10.1007/s12539-025-00777-5
+
 # TrambaHLApan
 This repository contains the data and python script in support of the manuscript: TrambaHLApan: a transformer and mamba-based neoantigen prediction method considering both antigen presentation and immunogenicity.
 _ _ _ _
@@ -103,3 +106,4 @@ Please cite our paper if you use the code.
 ## 5. Contact
 If you have any questions, please contact us via email: 
 + [Xiumin Shi](sxm@bit.edu.cn)
+
