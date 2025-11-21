@@ -2,6 +2,8 @@ This paper has been published as "TrambaHLApan: A Transformer and Mamba-based Ne
 https://link.springer.com/article/10.1007/s12539-025-00777-5
 
 # TrambaHLApan
+TrambaHLApan, a novel neoantigen prediction framework that integrates Transformer and Mamba architectures to concurrently predict antigen presentation likelihood (TrambaHLApan-EL) and immunogenic potential (TrambaHLApan-IM). Experimental results on independent datasets demonstrate that TrambaHLApan outperforms state-of-the-art methods, establishing it as a reliable tool for advancing personalized cancer immunotherapies.
+
 This repository contains the data and python script in support of the manuscript: TrambaHLApan: a transformer and mamba-based neoantigen prediction method considering both antigen presentation and immunogenicity.
 _ _ _ _
 
@@ -106,4 +108,5 @@ Please cite our paper if you use the code.
 ## 5. Contact
 If you have any questions, please contact us via email: 
 + [Xiumin Shi](sxm@bit.edu.cn)
+
 
